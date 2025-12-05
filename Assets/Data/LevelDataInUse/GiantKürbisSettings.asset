@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 701e127b25bdeda4aa6018a2f2842509, type: 3}
+  m_Name: "GiantK\xFCrbisSettings"
+  m_EditorClassIdentifier: 
+  BrokenPrefab: {fileID: 8694883880990774153, guid: ad73a617b8af29648bc36764d31294f5, type: 3}
+  CollisionClip: {fileID: 8300000, guid: e28896853e2102041951b8177ea68ee3, type: 3}
+  DestructionClip: {fileID: 8300000, guid: 5a0f2775ba270ab40a240c1740dc627c, type: 3}
+  ExplosiveForce: 1000
+  ExplosiveRadius: 5
+  FadeSpeed: 3.1
+  DestroyDelay: 5
+  SleepCheckDelay: 0.5
+  Respawn: 1
+  resetTimer: 60
+  DestroyValue: 1000
+  CollisionValue: 10
+  AllowAutomatedDestruction: 0
+  HitAmount: 5
+  ChangeMaterial: 1
+  Material01: {fileID: 2100000, guid: 2c4b4b66c1f4876489d8e6d980503ac9, type: 2}
+  Material02: {fileID: 2100000, guid: c15831c3983e0ba46bc619b8ff5abbe6, type: 2}
+  Material03: {fileID: 2100000, guid: 59bf428250c553b438c9dd97f54241ed, type: 2}
+  Material04: {fileID: 2100000, guid: 5e0a09ce3094b61408a12eb2c0538221, type: 2}
+  CollisionGroup: {fileID: -1585942546712559585, guid: 369e9ea0dfb4b7d4c8794c09bbe4bc2f, type: 2}
+  DestroyGroup: {fileID: -777458001681440320, guid: 369e9ea0dfb4b7d4c8794c09bbe4bc2f, type: 2}
+  DestroyedCubeAdditionalDistance: {x: 0, y: 0, z: 0}

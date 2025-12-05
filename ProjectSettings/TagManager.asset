@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Destroyable
+  - MissionItem
+  - Wall
+  - Collectable
+  - Defense
+  - ItemPos
+  - Rebound
+  - Hex
+  - EnergyGenerator
+  - HexEffectObj
+  - Portal
+  - CurvesTrigger
+  - Curve
+  - Trampolin
+  - NPC
+  - CookingPot
+  - Critter
+  - ChickInLantern
+  - SpawnLocation
+  - CameraHelper
+  - Manager
+  - Emissve_baked
+  - BrueckeParent
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Level
+  - World
+  - Hex
+  - PlanetSurface
+  - Shield
+  - Player
+  - PlayerNoCollision
+  - Waypoints
+  - Invisible
+  - Mond
+  - CustomUV
+  - UIKUGEL
+  - ObjectsWithConstantNoCollision
+  - DestroyablePieces
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

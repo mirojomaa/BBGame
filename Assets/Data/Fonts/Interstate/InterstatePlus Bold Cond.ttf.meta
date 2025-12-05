@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: dd14fb1fbe15d084cb4bc1de48a80be1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - InterstatePlus
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4cfa87e19b0f1b842bc73ddeae3a73d1, type: 3}
+  - {fileID: 12800000, guid: 68033cf0d63935e4694c21e0d6819862, type: 3}
+  - {fileID: 12800000, guid: 4d70971f5efed464787ce805ed0a52fc, type: 3}
+  - {fileID: 12800000, guid: 910f444ea2ce0194b9019504ce0f7768, type: 3}
+  - {fileID: 12800000, guid: 11e0c3f01c3f9204495877b8044de5a1, type: 3}
+  - {fileID: 12800000, guid: 4aa555df158a0814bb51c0c9f3d211ca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f978ce936b465c04abebba86d274cf3f, type: 3}
+  m_Name: Pilze
+  m_EditorClassIdentifier: 
+  ResetAfterDestruction: 1
+  ResetAfterTime: 0
+  breakablePrefab: {fileID: 5338952289351731444, guid: 71e900c3171c8024589225f8bb110d61, type: 3}
+  audioOnBreak: {fileID: 8300000, guid: 141d258d1eb524c49a2f5c84d457ee1c, type: 3}
+  audioDelay: 0.01
+  particleToSpawn: {fileID: 3387250936173867828, guid: 500934078c12e1c40a7b61756f412744, type: 3}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 701e127b25bdeda4aa6018a2f2842509, type: 3}
+  m_Name: ZaunSettings
+  m_EditorClassIdentifier: 
+  BrokenPrefab: {fileID: 8694883880990774153, guid: 3149ff660944b8440a3bc682cdd36e8b, type: 3}
+  CollisionClip: {fileID: 8300000, guid: e28896853e2102041951b8177ea68ee3, type: 3}
+  DestructionClip: {fileID: 8300000, guid: d0a01bcf4f928424384169266b459302, type: 3}
+  ExplosiveForce: 800
+  ExplosiveRadius: 3
+  FadeSpeed: 3.1
+  DestroyDelay: 5
+  SleepCheckDelay: 0.5
+  Respawn: 1
+  resetTimer: 30
+  DestroyValue: 15
+  CollisionValue: 5
+  AllowAutomatedDestruction: 1
+  HitAmount: 3
+  ChangeMaterial: 0
+  Material01: {fileID: 0}
+  Material02: {fileID: 0}
+  Material03: {fileID: 0}
+  Material04: {fileID: 0}
+  CollisionGroup: {fileID: -5140547902340752598, guid: 369e9ea0dfb4b7d4c8794c09bbe4bc2f, type: 2}
+  DestroyGroup: {fileID: -7098911600794797653, guid: 369e9ea0dfb4b7d4c8794c09bbe4bc2f, type: 2}
